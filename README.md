@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--
-**casspdx/casspdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**casspdx/casspdx** is a ✨ _special_ ✨ repository because its `<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.giphy.com/media/bgu2GvmWzB7msNmevT/200.webp)" width="100"/>
+</div>` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
