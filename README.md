@@ -18,3 +18,9 @@
   Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <body>
+    Thank you for checking out my Github!
+    I am currently a Portland State graphic design student in my junior year :) <br>
+    Not too good at coding yet but it's a process lol
+   
+  </body>
